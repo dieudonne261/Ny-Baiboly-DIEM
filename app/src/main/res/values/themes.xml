@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NyBaiboly" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">#FDF6FE</item> -->
+        <!-- <item name="colorPrimaryDark">#F2ECF6</item> -->
+
+    </style>
+
+    <style name="Theme.NyBaiboly" parent="Base.Theme.NyBaiboly" />
+</resources>

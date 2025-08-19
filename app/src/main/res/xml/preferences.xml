@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:key="isModeSombre"
+        android:title="Mode Sombre"
+        android:defaultValue="false" />
+    <CheckBoxPreference
+        android:key="isSetting"
+        android:title="Setting"
+        android:defaultValue="false" />
+
+    <EditTextPreference
+        android:key="languageSelect"
+        android:title="Language"
+        android:defaultValue="English" />
+
+    <EditTextPreference
+        android:key="bibleFontSize"
+        android:title="Bible Font Size"
+        android:defaultValue="10" />
+
+    <EditTextPreference
+        android:key="id_testament"
+        android:title="Testament"
+        android:defaultValue="0" />
+
+    <EditTextPreference
+        android:key="id_livre"
+        android:title="Livre"
+        android:defaultValue="0" />
+
+    <EditTextPreference
+        android:key="id_chapitre"
+        android:title="Chapitre"
+        android:defaultValue="0" />
+
+</PreferenceScreen>
